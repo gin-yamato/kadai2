@@ -1,0 +1,13 @@
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.exe
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.deps.json
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.runtimeconfig.json
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.runtimeconfig.dev.json
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.dll
+F:\椎野先生　c#\kadai1\bin\Debug\netcoreapp3.1\kadai1.pdb
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.csprojAssemblyReference.cache
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.AssemblyInfoInputs.cache
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.AssemblyInfo.cs
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.csproj.CoreCompileInputs.cache
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.dll
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.pdb
+F:\椎野先生　c#\kadai1\obj\Debug\netcoreapp3.1\kadai1.genruntimeconfig.cache
